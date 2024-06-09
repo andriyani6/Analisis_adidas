@@ -56,6 +56,28 @@ Running Shoes:
 Tren Produksi: Grafik menunjukkan peningkatan yang stabil dalam produksi sepatu running dari Januari (500 unit) hingga April (700 unit).
 Analisis: Peningkatan yang konsisten ini menunjukkan bahwa sepatu running sangat diminati, dan Adidas mungkin meningkatkan produksinya untuk memenuhi permintaan yang tinggi atau mengantisipasi permintaan yang akan datang.
 
+![distribusi produksi piechart](https://github.com/andriyani6/Analisis_adidas/assets/152153346/02ff17a8-77bb-4713-bc9f-a26a83195049)
+interpretasi dari distribusi produksi sepatu Adidas:
+Running Shoes:
+Total Produksi: 2350 unit
+Persentase: Running shoes menyumbang bagian terbesar dari produksi sepatu Adidas, yaitu sekitar 42.9% dari total produksi.
+Analisis: Ini menunjukkan bahwa sepatu jenis Running adalah produk utama yang diproduksi oleh Adidas dalam periode tersebut. Tingginya produksi mungkin disebabkan oleh tingginya permintaan pasar untuk sepatu jenis ini, baik untuk olahraga maupun penggunaan sehari-hari.
+
+Casual Shoes:
+Total Produksi: 1830 unit
+Persentase: Sepatu jenis Casual menempati posisi kedua dalam produksi, dengan persentase sekitar 33.4%.
+Analisis: Sepatu Casual juga memiliki pangsa pasar yang signifikan. Produksi yang cukup tinggi untuk sepatu jenis ini mungkin disebabkan oleh popularitas sepatu Casual untuk kegiatan sehari-hari, terutama di kalangan konsumen yang menginginkan kenyamanan dan gaya.
+
+Sports Shoes:
+Total Produksi: 1380 unit
+Persentase: Sepatu Sports memiliki produksi paling sedikit di antara ketiga jenis sepatu, dengan persentase sekitar 23.7%.
+Analisis: Meskipun sepatu Sports memiliki produksi paling sedikit, mereka tetap merupakan bagian penting dari portofolio produk Adidas. Produksi yang lebih rendah mungkin mencerminkan permintaan yang lebih spesifik atau segmentasi pasar yang lebih kecil dibandingkan dengan sepatu Running dan Casual.
+
+Kesimpulan
+Dominasi Sepatu Running: Dengan produksi terbesar, sepatu Running adalah fokus utama produksi Adidas, kemungkinan besar karena tingginya permintaan.
+Popularitas Sepatu Casual: Sepatu Casual juga memiliki produksi yang signifikan, menunjukkan bahwa mereka juga merupakan produk penting bagi Adidas.
+Niche Market untuk Sepatu Sports: Produksi sepatu Sports yang lebih rendah mungkin menunjukkan target pasar yang lebih spesifik atau kebutuhan yang lebih terbatas.
+Pie chart memberikan gambaran yang jelas tentang bagaimana Adidas mendistribusikan sumber dayanya untuk memproduksi berbagai jenis sepatu. Analisis ini dapat membantu Adidas dalam pengambilan keputusan strategis, seperti alokasi sumber daya produksi, penyesuaian strategi pemasaran, dan fokus pengembangan produk di masa depan.
 Casual Shoes:
 Tren Produksi: Produksi sepatu casual meningkat dari Januari (400 unit) hingga Maret (500 unit), tetapi sedikit menurun di bulan April (480 unit).
 Analisis: Penurunan kecil di bulan April mungkin menunjukkan adanya penyesuaian produksi untuk menghindari kelebihan stok atau perubahan dalam strategi pemasaran.
